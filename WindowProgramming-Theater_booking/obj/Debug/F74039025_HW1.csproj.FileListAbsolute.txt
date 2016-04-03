@@ -1,0 +1,11 @@
+c:\users\陸勇盛\documents\visual studio 2013\Projects\F74039025_HW1\F74039025_HW1\bin\Debug\F74039025_HW1.exe.config
+c:\users\陸勇盛\documents\visual studio 2013\Projects\F74039025_HW1\F74039025_HW1\bin\Debug\F74039025_HW1.exe
+c:\users\陸勇盛\documents\visual studio 2013\Projects\F74039025_HW1\F74039025_HW1\bin\Debug\F74039025_HW1.pdb
+c:\users\陸勇盛\documents\visual studio 2013\Projects\F74039025_HW1\F74039025_HW1\obj\Debug\F74039025_HW1.csprojResolveAssemblyReference.cache
+c:\users\陸勇盛\documents\visual studio 2013\Projects\F74039025_HW1\F74039025_HW1\obj\Debug\F74039025_HW1.form_login.resources
+c:\users\陸勇盛\documents\visual studio 2013\Projects\F74039025_HW1\F74039025_HW1\obj\Debug\F74039025_HW1.Properties.Resources.resources
+c:\users\陸勇盛\documents\visual studio 2013\Projects\F74039025_HW1\F74039025_HW1\obj\Debug\F74039025_HW1.csproj.GenerateResource.Cache
+c:\users\陸勇盛\documents\visual studio 2013\Projects\F74039025_HW1\F74039025_HW1\obj\Debug\F74039025_HW1.exe
+c:\users\陸勇盛\documents\visual studio 2013\Projects\F74039025_HW1\F74039025_HW1\obj\Debug\F74039025_HW1.pdb
+c:\users\陸勇盛\documents\visual studio 2013\Projects\F74039025_HW1\F74039025_HW1\obj\Debug\F74039025_HW1.Form_main.resources
+c:\users\陸勇盛\documents\visual studio 2013\Projects\F74039025_HW1\F74039025_HW1\obj\Debug\F74039025_HW1.Form_book.resources

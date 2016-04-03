@@ -1,0 +1,11 @@
+C:\Users\陸勇盛\Documents\Visual Studio 2013\Projects\F74039025_HW1\WindowProgramming-Theater_booking\bin\Debug\F74039025_HW1.exe.config
+C:\Users\陸勇盛\Documents\Visual Studio 2013\Projects\F74039025_HW1\WindowProgramming-Theater_booking\obj\Debug\F74039025_HW1.exe
+C:\Users\陸勇盛\Documents\Visual Studio 2013\Projects\F74039025_HW1\WindowProgramming-Theater_booking\obj\Debug\F74039025_HW1.pdb
+C:\Users\陸勇盛\Documents\Visual Studio 2013\Projects\F74039025_HW1\WindowProgramming-Theater_booking\bin\Debug\F74039025_HW1.exe
+C:\Users\陸勇盛\Documents\Visual Studio 2013\Projects\F74039025_HW1\WindowProgramming-Theater_booking\bin\Debug\F74039025_HW1.pdb
+C:\Users\陸勇盛\Documents\Visual Studio 2013\Projects\F74039025_HW1\WindowProgramming-Theater_booking\obj\Debug\WindowProgramming-Theater_booking.csprojResolveAssemblyReference.cache
+C:\Users\陸勇盛\Documents\Visual Studio 2013\Projects\F74039025_HW1\WindowProgramming-Theater_booking\obj\Debug\F74039025_HW1.Form_book.resources
+C:\Users\陸勇盛\Documents\Visual Studio 2013\Projects\F74039025_HW1\WindowProgramming-Theater_booking\obj\Debug\F74039025_HW1.Form_login.resources
+C:\Users\陸勇盛\Documents\Visual Studio 2013\Projects\F74039025_HW1\WindowProgramming-Theater_booking\obj\Debug\F74039025_HW1.Form_main.resources
+C:\Users\陸勇盛\Documents\Visual Studio 2013\Projects\F74039025_HW1\WindowProgramming-Theater_booking\obj\Debug\F74039025_HW1.Properties.Resources.resources
+C:\Users\陸勇盛\Documents\Visual Studio 2013\Projects\F74039025_HW1\WindowProgramming-Theater_booking\obj\Debug\WindowProgramming-Theater_booking.csproj.GenerateResource.Cache
