@@ -534,6 +534,7 @@ namespace F74039025_HW1 {
                 sw.WriteLine("--------------------");
                 sw.WriteLine("訂票時間：" + selectNow);
                 sw.WriteLine("電影名稱：" + selectFilm);
+                sw.WriteLine("電影時間：" + selectTime);
                 sw.WriteLine("電影場次：" + selectRound);
                 sw.WriteLine("訂票張數：" + Convert.ToString(seatCount) + " 張");
                 sw.WriteLine("訂票座位：" + search_button_seat());
@@ -546,6 +547,7 @@ namespace F74039025_HW1 {
                 sw.WriteLine("--------------------");
                 sw.WriteLine("訂票時間：" + selectNow);
                 sw.WriteLine("電影名稱：" + selectFilm);
+                sw.WriteLine("電影時間：" + selectTime);
                 sw.WriteLine("電影場次：" + selectRound);
                 sw.WriteLine("訂票張數：" + Convert.ToString(seatCount) + " 張");
                 sw.WriteLine("訂票座位：" + search_button_seat());
